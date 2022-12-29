@@ -1,4 +1,4 @@
-# Automating ChatGPT with Python and Selenium
+#                                      Automating ChatGPT with Python and Selenium
 
 <div align="center">
 <a href="https://mail.google.com/mail/u/?authuser=ahmadzee26@gmail.com">
