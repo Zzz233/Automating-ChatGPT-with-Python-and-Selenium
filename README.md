@@ -30,8 +30,4 @@
   <strong align="center">For discussion, queries and freelance work. Do reach me.👆👆👆</strong>
 <div />
 
-<div align="left">
-# Introduction
-</div>
-
 
