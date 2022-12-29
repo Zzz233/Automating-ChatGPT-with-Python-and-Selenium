@@ -36,11 +36,6 @@ This is a Python script that uses Selenium to automate the process of chatting w
 - Automates the process of chatting with ChatGPT
 - Saves the response to a text file
 
-# To-dos
-
-- Add support for multiple questions
-- Allow the user to specify the output file name
-
 # Requirements
 
 - Python 3.x
