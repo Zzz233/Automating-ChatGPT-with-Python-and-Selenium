@@ -1,6 +1,5 @@
 # Automating-ChatGPT-with-Python-and-Selenium
 
-<img src="https://i.imgur.com/POFGpXS.png" alt="logo" width="100%">
 
 <div align="center">
 <a href="https://mail.google.com/mail/u/?authuser=ahmadzee26@gmail.com">
@@ -20,7 +19,7 @@
 </a>
 <br />
   <strong align="center">For discussion, queries and freelance work. Do reach me.👆👆👆</strong>
-  
+ <div/>
 # Introduction
 
 This is a Python script that uses Selenium to automate the process of chatting with ChatGPT (https://chatgpt.openai.com/). It sends a question to ChatGPT and saves the response to a text file.
