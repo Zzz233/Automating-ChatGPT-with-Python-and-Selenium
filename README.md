@@ -14,6 +14,13 @@
   <img  align="center" alt="Abhishek's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 	  <code>Zee#0291</code>
 </a>
+</a>
+	<span>┃</span>
+  <a href="" style="margin-top: 12px;">
+  <img  align="center" alt="Abhishek's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/skype.svg" />
+	  <code>zeeshan.ahmad400</code>
+</a>
+
 <br />
   <strong align="center">For discussion, queries and freelance work. Do reach me.👆👆👆</strong>
   <div />
