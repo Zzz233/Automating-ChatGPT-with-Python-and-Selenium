@@ -17,7 +17,7 @@
 </a>
 	<span>┃</span>
   <a href="" style="margin-top: 12px;">
-  <img  align="center" alt="Abhishek's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/skype.svg" />
+  <img  align="center" alt="Abhishek's Discord" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/skype.svg" />
 	  <code>zeeshan.ahmad400</code>
 </a>
 
