@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/POFGpXS.png" alt="logo" width="100%">
-
 <div align="center">
 <a href="https://mail.google.com/mail/u/?authuser=ahmadzee26@gmail.com">
   <img align="center" alt="Abhishek Naidu | Twitter" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
