@@ -27,7 +27,7 @@
 <br />
   <strong align="center">For discussion, queries and freelance work. Do reach me.👆👆👆</strong>
 <div />
-  
+<br />
   
 # Introduction
 
