@@ -1,5 +1,4 @@
-# Automating-ChatGPT-with-Python-and-Selenium
-
+<img src="https://i.imgur.com/POFGpXS.png" alt="logo" width="100%">
 
 <div align="center">
 <a href="https://mail.google.com/mail/u/?authuser=ahmadzee26@gmail.com">
@@ -19,48 +18,4 @@
 </a>
 <br />
   <strong align="center">For discussion, queries and freelance work. Do reach me.👆👆👆</strong>
- <div/>
-# Introduction
-
-This is a Python script that uses Selenium to automate the process of chatting with ChatGPT (https://chatgpt.openai.com/). It sends a question to ChatGPT and saves the response to a text file.
-
-# Features
-
-- Automates the process of chatting with ChatGPT
-- Saves the response to a text file
-
-# To-dos
-
-- Add support for multiple questions
-- Allow the user to specify the output file name
-
-# Requirements
-
-- Python 3.x
-- Selenium Python library
-- Chrome webdriver
-
-# Installation
-
-1. Install Python 3.x (if it is not already installed)
-2. Install Selenium by running `pip install selenium`
-3. Download a Chrome webdriver from the Selenium website (http://www.seleniumhq.org/download/) and add it to your PATH
-
-# Usage
-
-1. Clone or download this repository
-2. Navigate to the repository directory in a terminal
-3. Run the script by typing `python chatgpt_automation.py`
-
-# Contributions
-
-Contributions are welcome! If you have any suggestions or bug reports, please open an issue or submit a pull request.
-
-# License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-# Acknowledgments
-
-- ChatGPT: https://chatgpt.openai.com/
-- Selenium: http://www.seleniumhq.org/
+  <div />
