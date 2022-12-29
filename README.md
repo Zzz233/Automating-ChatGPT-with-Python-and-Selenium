@@ -1,6 +1,6 @@
 
 
-
+<div align="center">
 <h1 align="center">Automating ChatGPT with Python and Selenium</h1>
 
 
@@ -28,5 +28,6 @@
 
 <br />
   <strong align="center">For discussion, queries and freelance work. Do reach me.👆👆👆</strong>
+<div />
 
-
+# Introduction
