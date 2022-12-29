@@ -1,5 +1,4 @@
 
-# A
 
 <div align="center">
 <h1 align="center">Automating ChatGPT with Python and Selenium</h1>
@@ -32,3 +31,19 @@
   <div />
 
 
+
+# Introduction
+
+This is a Python script that uses Selenium to automate the process of chatting with ChatGPT (https://chatgpt.openai.com/). It sends a question to ChatGPT and saves the response to a text file.
+
+# Features
+
+- Automates the process of chatting with ChatGPT
+- Saves the response to a text file
+
+# To-dos
+
+- Add support for multiple questions
+- Allow the user to specify the output file name
+
+# Requirements
